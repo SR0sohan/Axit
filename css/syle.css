@@ -208,10 +208,14 @@ header{
     cursor: pointer;
     transition: 0.3s;
 }
-.context-tab:hover{
+/* .context-tab:hover{
     background-color:  #ff9b51;
     transition: 0.3s;
 
+} */
+
+.feature-text{
+    padding-top: 30px;
 }
 
 .context-tab:first-child{
